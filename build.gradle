@@ -1,9 +1,3 @@
-apply plugin: 'java'
-
-sourceSets {
-    main {
-        java {
-            srcDirs = ["XMPCore/src"]
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7011c9cb6410be7349bce762903a0c292c621e590be8e57478d4e967dfa12ab1
+size 116

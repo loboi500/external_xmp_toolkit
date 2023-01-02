@@ -1,3 +1,3 @@
-# used by some apps
-include platform/packages/apps/Gallery2:/OWNERS
-include platform/packages/apps/Camera2:/OWNERS
+version https://git-lfs.github.com/spec/v1
+oid sha256:e223da2192abae6147a957fa76ddbf1cbedc745ffb706fbf52aba4148d901cd5
+size 115
